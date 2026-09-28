@@ -4,10 +4,6 @@ A public starter for checking integrated heating budgets and comparing
 thermodynamic solar-wind model samples with observations prepared from OMNI.
 It contains generic utilities, symbolic physics documentation, and **synthetic examples only**.
 
-This is not a release of a calibrated thermodynamic model, an OMNI downloader,
-or a reproduction package for a particular simulation. There are no numerical model
-coefficients, boundary conditions, magnetic inputs, observation windows, or
-scientific results in this repository.
 
 ## Physics at a glance
 
