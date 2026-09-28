@@ -1,0 +1,17 @@
+# Deny new files by default. Extend this allowlist only after publication review.
+/*
+!/.gitignore
+!/README.md
+!/audit.py
+!/docs/
+/docs/*
+!/docs/PLAN.md
+!/docs/METHOD.md
+!/docs/PUBLICATION.md
+!/tests/
+/tests/*
+!/tests/test_audit.py
+!/examples/
+/examples/*
+!/examples/synthetic_budget.json
+!/examples/synthetic_pairs.csv

@@ -1,0 +1,8 @@
+{
+  "description": "Synthetic arithmetic example only; not a solar measurement or model configuration.",
+  "global_power_erg_s": {"component_a": 3.0, "component_b": 7.0, "Htotal": 10.0},
+  "radial_band_power_erg_s": {
+    "inner": {"component_a": 1.0, "component_b": 2.0, "Htotal": 3.0},
+    "outer": {"component_a": 2.0, "component_b": 5.0, "Htotal": 7.0}
+  }
+}
