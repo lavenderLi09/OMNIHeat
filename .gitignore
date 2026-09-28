@@ -7,6 +7,7 @@
 /docs/*
 !/docs/PLAN.md
 !/docs/METHOD.md
+!/docs/PHYSICS.md
 !/docs/PUBLICATION.md
 !/tests/
 /tests/*
